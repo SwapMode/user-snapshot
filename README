@@ -1,0 +1,8 @@
+# SwapMode - TVL by User
+
+Generates a CSV and JSON file output for user LP values at specific blocks.
+
+```
+yarn install
+yarn watch
+```
